@@ -1,4 +1,8 @@
-export const use<%= name %>ViewModel = () => {
+export function use<%= name %>ViewModel() {
   // Adicione sua lógica aqui
-  return {};
+  return {
+    // Estados
+
+    // Funções
+  };
 };

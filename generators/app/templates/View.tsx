@@ -1,9 +1,7 @@
 import React from 'react';
 
-const <%= name %>View = () => {
+export default function <%= name %>View() {
   return (
     <></>
   );
 };
-
-export default <%= name %>View;
