@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Diretório de dependências locais
+.pnpm-debug.log*
+package-lock.json
+
+# VSCode settings
+.vscode/
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Yeoman generator link global
+yo-rc.json
+
+# Arquivos de output (se você gerar algo local para teste)
+dist/

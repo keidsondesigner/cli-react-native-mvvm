@@ -1,0 +1,16 @@
+{
+  "name": "generator-mvvm",
+  "version": "1.0.0",
+  "description": "Gerador MVVM para React Native",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "main": "generators/app/index.js",
+  "type": "module",
+  "files": [
+    "generators"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^5.7.0"
+  }
+}
